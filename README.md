@@ -2,9 +2,9 @@
 
 # k4mys@github
 
-### Data Scientist · Data, AI & Intelligent Systems
+**Data Scientist · Data, AI & Intelligent Systems**
 
-<sub>turning data into intelligence and intelligence into systems.</sub>
+<sub>turning data into intelligence — and intelligence into systems.</sub>
 
 </div>
 
@@ -12,58 +12,61 @@
 
 <table>
 <tr>
-<td width="42%" valign="top">
+<td width="45%" valign="top">
 
 <pre>
-             .,,::::::,,.
-          ,;XXXXXXXXXXXXXX;,
-        :XXXXXx;,,,,;xXXXXXXX:
-      ,XXXXx,          ,xXXXXX,
-     :XXXX,              ,XXXXX:
-    ;XXXx                  xXXXX;
-   ,XXXx                    xXXX,
-   XXXX                      XXXX
-  ;XXX        ..,,..         XXX;
-  XXX      .;xXXXXXXx;.      XXX
-  XXX     :XXx;,,;xXXX:      XXX
-  XXX    ;XX,      ,xXX;     XXX
-  XXX    XX;   ..   ;XX      XXX
-  XXX    XX    ..    XX      XXX
-  XXX    ;XX,      ,XX;      XXX
-  ;XXX    ;XXXx;;xXXX;      XXX;
-   XXXx     ;xXXXXx;       xXXX
-   ,XXXx       ,,         xXXX,
-    ;XXXX,              ,XXXX;
-      XXXXx,          ,xXXXX
-       ;XXXXXx;,,,,;xXXXXX;
-         ;XXXXXXXXXXXXXX;
-            ;xXXXXXXx;
-              XXXXX
-              XXXXX
-             XXXXXXX
-           xXXXXXXXXXXx
+              .,:;;;;;:,.
+          ,;XXXXXXXXXXXXXXX;,
+       ,XXXXXXXXXXXXXXXXXXXXXX,
+     :XXXXXXXXXXx;,,:;xXXXXXXXXX:
+    XXXXXXXXx,          ,xXXXXXXXX
+   XXXXXXX,                ,XXXXXXX
+  XXXXXX                    XXXXXX
+ XXXXX                      XXXXX
+ XXXX                        XXXX
+XXXX                          XXXX
+XXX       .,:;;;;;;:,.       XXX
+XXX     ,XXXXXXXXXXXXXX,      XXX
+XXX    XXXXXx;,,,,;xXXXX      XXX
+XXX   XXXX,          XXXX     XXX
+XXX   XXX     ....    XXX     XXX
+XXX   XXX    ......   XXX     XXX
+XXX   XXXX          ,XXXX     XXX
+XXX    XXXXX;,..,;XXXXX       XXX
+ XXXX    ;XXXXXXXXXX;        XXXX
+ XXXXX      ,;;;;,          XXXXX
+  XXXXXX                  XXXXXX
+   XXXXXXX              XXXXXXX
+    XXXXXXXXX,      ,XXXXXXXXX
+      XXXXXXXXXXXXXXXXXXXXXX
+        XXXXXXXXXXXXXXXXXX
+           XXXXXXXXXXXX
+             XXXXXXXX
+              XXXXXX
+              XXXXXX
+             XXXXXXXX
+           XXXXXXXXXXXX
 </pre>
 
 </td>
 
-<td width="58%" valign="top">
+<td width="55%" valign="top">
 
 <pre>
 k4mys@github
-────────────────────────────────────────
+──────────────────────────────────────
 
 Role
 Data Scientist
 
 Focus
-Data Science · Generative AI
-Intelligent Systems · Machine Learning
+Generative AI
+Machine Learning
+Intelligent Systems
 
-Languages.Programming
+Core
 Python · SQL · R
-
-AI
-RAG · AI Agents
+RAG · Agents
 LangGraph · LangChain
 
 Evaluation
@@ -72,7 +75,7 @@ Langfuse · Ragas
 Cloud
 Azure · AWS
 
-Currently
+Status
 building systems that think.
 
 Coffee
@@ -88,41 +91,45 @@ strong · no sugar
 ## `> selected_work`
 
 ```text
-01  Generative AI             LLM-powered applications & workflows
-02  Agentic Systems           orchestration, tools & multi-agent systems
-03  RAG                       retrieval, embeddings & knowledge systems
-04  Machine Learning          modeling, experimentation & analytics
-05  Data Products             data → decision → product
-06  AI Observability          evaluation, tracing & quality monitoring
+Generative AI       LLM applications, workflows and agents
+Agentic Systems     orchestration, tools and multi-agent systems
+RAG                 retrieval, embeddings and knowledge systems
+Machine Learning    modeling, experimentation and analytics
+Data Products       turning data into useful systems
+AI Observability    tracing, evaluation and quality monitoring
 ```
 
-## `> stack`
+## `> toolkit`
 
 ```text
-Languages      Python · SQL · R
-AI             LangGraph · LangChain · RAG
-Evaluation     Langfuse · Ragas
-Cloud          Azure · AWS
-Data           ML · Statistics · Analytics
-Architecture   APIs · Agents · Knowledge Systems
+Languages        Python · SQL · R
+AI               LangGraph · LangChain · RAG
+Evaluation       Langfuse · Ragas
+Cloud            Azure · AWS
+Data             Machine Learning · Statistics · Analytics
+Architecture     APIs · Agents · Knowledge Systems
 ```
 
 ## `> beyond_code`
 
 ```text
-Games          RPGs · Zelda · Pokémon
-Creative       Oil painting · Music
-Offline        Reading
-Fuel           Coffee, strong and without sugar
+Games            RPGs · Zelda · Pokémon
+Creative         Oil painting · Music
+Reading          always something on the queue
+Fuel             coffee, strong and without sugar
 ```
 
 <br>
 
 <div align="center">
 
+<sub>
+
 ```text
 $ whoami
-k4mys - somewhere between data, code and another idea that became a project.
+k4mys — somewhere between data, code and another idea that became a project.
 ```
+
+</sub>
 
 </div>
