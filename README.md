@@ -4,7 +4,7 @@
 
 **Data Scientist · Data, AI & Intelligent Systems**
 
-<sub>turning data into intelligence — and intelligence into systems.</sub>
+<sub>turning data into intelligence and intelligence into systems.</sub>
 
 </div>
 
